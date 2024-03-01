@@ -1,0 +1,8 @@
+{
+  "files.associations": {
+    "uart.h": "c",
+    "ht32f5xxxx_ckcu.h": "c",
+    "ht32f5xxxx_usart.h": "c",
+    "ht32.h": "c"
+  }
+}
